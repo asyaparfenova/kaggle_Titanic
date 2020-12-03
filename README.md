@@ -21,6 +21,8 @@ In this repository project is devided into 4 Jupiter Notebooks:
 
 ## Kaggle Results:
 Logistic Regression: 0.77511
+
 RandomForest: 0.74401
+
 Decision Tree: 0.72248
 
