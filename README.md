@@ -1,7 +1,7 @@
 # kaggle_Titanic
 Student Project in SPICED Academy Berlin, week 02.
 
-![Titanic(https://github.com/asyaparfenova/kaggle_Titanic/blob/main/images/titanic.png?raw=true "Photo Credit: @pixel2013|pixabay.com")
+![GitHub Logo](/images/titanic.png "Photo Credit: @pixel2013|pixabay.com")
 
 This is my attempt on the the legendary kaggle competition "Titanic: Machine Learning from Disaster":
 https://www.kaggle.com/c/titanic
