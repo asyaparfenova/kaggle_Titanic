@@ -3,8 +3,8 @@ Student Project in SPICED Academy Berlin, week 02.
 
 ![GitHub Logo](/images/titanic.png "Photo Credit: @pixel2013|pixabay.com")
 
-This is my attempt on the the legendary kaggle competition "Titanic: Machine Learning from Disaster":
-https://www.kaggle.com/c/titanic
+This is my attempt on the the legendary [kaggle](https://www.kaggle.com) competition ["Titanic: Machine Learning from Disaster"](https://www.kaggle.com/c/titanic)
+
 
 The goals of the project:
 1. Exploring Titanic Dataset.
