@@ -1,5 +1,6 @@
 # kaggle_Titanic
 Student Project in SPICED Academy Berlin, week 02.
+My trial on the legendary Titanic ML competition: using machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
 ![GitHub Logo](/images/titanic.png "Photo Credit: @pixel2013|pixabay.com")
 
