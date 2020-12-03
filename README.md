@@ -1,6 +1,8 @@
 # kaggle_Titanic
 Student Project in SPICED Academy Berlin, week 02.
 
+![Titanic (https://github.com/asyaparfenova/data_pipeline/blob/main/images/pipeline.png?raw=true "Photo Credit: @pixel2013|pixabay.com")
+
 This is my attempt on the the legendary kaggle competition "Titanic: Machine Learning from Disaster":
 https://www.kaggle.com/c/titanic
 
@@ -20,4 +22,5 @@ In this repository project is devided into 4 Jupiter Notebooks:
 Kaggle Results:
 Logistic Regression: 0.77511
 RandomForest: 0.74401
+Decision Tree: 0.72248
 
